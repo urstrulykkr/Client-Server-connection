@@ -1,2 +1,1 @@
-# Real-time-Chat-App
-A chatting platform application
+# Simple MERN app Client-Server connecti
